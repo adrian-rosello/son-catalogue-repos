@@ -1,6 +1,6 @@
 ---
-address: 127.0.0.1
-port: 9292
+address: 172.18.0.2
+port: 4021
 api_ver: /api/v1
 catalogue_client: son-catalogue
 catalogue_secret: 1234

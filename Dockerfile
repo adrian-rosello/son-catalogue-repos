@@ -8,7 +8,7 @@ COPY Gemfile /app/
 WORKDIR /app
 RUN bundle install
 COPY . /app
-RUN rake yard
+#RUN rake yard
 ENV PORT 4002
 EXPOSE 4002
 WORKDIR /app
