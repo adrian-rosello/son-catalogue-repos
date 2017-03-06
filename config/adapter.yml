@@ -1,5 +1,5 @@
 ---
-address: 172.18.0.2
+address: adapter
 port: 4021
 api_ver: /api/v1
 catalogue_client: son-catalogue
